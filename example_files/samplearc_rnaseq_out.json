@@ -1,0 +1,2725 @@
+{
+    "identifier": "Hackathon_ARCexample_rnaseq",
+    "title": "Facultative CAM in Talinum triangulare",
+    "description": "a",
+    "submissionDate": "July 07, 2015",
+    "publicReleaseDate": "Nov 05, 2015",
+    "ontologySourceReferences": [
+        {
+            "description": "Plant Experimental Conditions Ontology",
+            "file": "http://purl.obolibrary.org/obo/peco.owl",
+            "name": "PECO",
+            "version": "releases/2020-08-21"
+        },
+        {
+            "description": "Unit ontology",
+            "file": "http://purl.obolibrary.org/obo/uo.owl",
+            "name": "UO",
+            "version": "releases/2020-03-10"
+        },
+        {
+            "description": "NFDI for Plant Science Ontology",
+            "file": "https://github.com/nfdi4plants/nfdi4plants_ontology/blob/main/nfdi4plants_ontology.obo",
+            "name": "NFDI4PSO"
+        }
+    ],
+    "publications": [
+        {
+            "pubMedID": "26530316",
+            "doi": "10.1104/pp.15.01076",
+            "authorList": "Brilhaus, Dominik; Bräutigam, Andrea; Mettler-Altmann, Tabea; Winter, Klaus; Weber, Andreas P M",
+            "title": "Reversible Burst of Transcriptional Changes during Induction of Crassulacean Acid Metabolism in Talinum triangulare.",
+            "status": {
+                "annotationValue": "Published",
+                "termSource": "a",
+                "termAccession": "a"
+            }
+        }
+    ],
+    "people": [
+        {
+            "lastName": "Brilhaus",
+            "firstName": "Dominik",
+            "midInitials": "a",
+            "email": "dominik.brilhaus@hhu.de",
+            "phone": "0211-8115523",
+            "fax": "a",
+            "address": "HHU Düsseldorf, 22.07.U1.43, Universitätsstr. 1, 40225 Düsseldorf",
+            "affiliation": "Institute of Plant Biochemistry, HHU Düsseldorf",
+            "roles": [
+                {
+                    "annotationValue": "research assistant",
+                    "termSource": "scoro",
+                    "termAccession": "http://purl.org/spar/scoro/research-assistant"
+                }
+            ],
+            "comments": [
+                {
+                    "name": "Investigation Person ORCID",
+                    "value": "http://orcid.org/0000-0001-9021-3197"
+                }
+            ]
+        },
+        {
+            "lastName": "Bräutigam",
+            "firstName": "Andrea",
+            "address": "Universitätsstr. 1, 40225 Düsseldorf",
+            "affiliation": "Institute of Plant Biochemistry, HHU Düsseldorf",
+            "roles": [
+                {
+                    "annotationValue": "research assistant",
+                    "termSource": "scoro",
+                    "termAccession": "http://purl.org/spar/scoro/research-assistant"
+                }
+            ],
+            "comments": [
+                {
+                    "name": "Investigation Person ORCID",
+                    "value": "http://orcid.org/0000-0002-5309-0527"
+                }
+            ]
+        },
+        {
+            "lastName": "Mettler-Altmann",
+            "firstName": "Tabea",
+            "address": "Universitätsstr. 1, 40225 Düsseldorf",
+            "affiliation": "Institute of Plant Biochemistry, HHU Düsseldorf",
+            "roles": [
+                {
+                    "annotationValue": "research assistant",
+                    "termSource": "scoro",
+                    "termAccession": "http://purl.org/spar/scoro/research-assistant"
+                }
+            ],
+            "comments": [
+                {
+                    "name": "Investigation Person ORCID",
+                    "value": "http://orcid.org/0000-0002-9161-4889"
+                }
+            ]
+        },
+        {
+            "lastName": "Winter",
+            "firstName": "Klaus",
+            "address": "Balboa, Ancón, Republic of Panama",
+            "affiliation": "Smithsonian Tropical Research Institute, Panama",
+            "roles": [
+                {
+                    "annotationValue": "co-investigator",
+                    "termSource": "scoro",
+                    "termAccession": "http://purl.org/spar/scoro/co-investigator"
+                }
+            ],
+            "comments": [
+                {
+                    "name": "Investigation Person ORCID"
+                }
+            ]
+        },
+        {
+            "lastName": "Weber",
+            "firstName": "Andreas",
+            "midInitials": "P M",
+            "address": "Universitätsstr. 1, 40225 Düsseldorf",
+            "affiliation": "Institute of Plant Biochemistry, HHU Düsseldorf",
+            "roles": [
+                {
+                    "annotationValue": "principal investigator",
+                    "termSource": "scoro",
+                    "termAccession": "http://purl.org/spar/scoro/principal-investigator"
+                }
+            ],
+            "comments": [
+                {
+                    "name": "Investigation Person ORCID",
+                    "value": "http://orcid.org/0000-0003-0970-4672"
+                }
+            ]
+        }
+    ],
+    "studies": [
+        {
+            "filename": "TalinumFacultativeCAM/isa.study.xlsx",
+            "identifier": "TalinumFacultativeCAM",
+            "title": "a",
+            "description": "a",
+            "submissionDate": "a",
+            "publicReleaseDate": "a",
+            "publications": [
+                {
+                    "pubMedID": "a",
+                    "doi": "a",
+                    "authorList": "a",
+                    "title": "a",
+                    "status": {
+                        "annotationValue": "a",
+                        "termSource": "a",
+                        "termAccession": "a"
+                    }
+                }
+            ],
+            "people": [
+                {
+                    "lastName": "a",
+                    "firstName": "a",
+                    "midInitials": "a",
+                    "email": "a",
+                    "phone": "a",
+                    "fax": "a",
+                    "address": "a",
+                    "affiliation": "a",
+                    "roles": [
+                        {
+                            "annotationValue": "a",
+                            "termSource": "a",
+                            "termAccession": "a"
+                        }
+                    ]
+                }
+            ],
+            "studyDesignDescriptors": [
+                {
+                    "annotationValue": "a",
+                    "termSource": "a",
+                    "termAccession": "a"
+                }
+            ],
+            "protocols": [
+                {
+                    "name": "a",
+                    "protocolType": {
+                        "annotationValue": "a",
+                        "termSource": "a",
+                        "termAccession": "a"
+                    },
+                    "description": "a",
+                    "uri": "a",
+                    "version": "a",
+                    "parameters": [
+                        {
+                            "parameterName": {
+                                "annotationValue": "a",
+                                "termSource": "a",
+                                "termAccession": "a"
+                            }
+                        }
+                    ],
+                    "components": [
+                        {
+                            "componentName": "a",
+                            "componentType": {
+                                "annotationValue": "a",
+                                "termSource": "a",
+                                "termAccession": "a"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "assays": [
+                {
+                    "filename": "a",
+                    "measurementType": {
+                        "annotationValue": "a",
+                        "termSource": "a",
+                        "termAccession": "a"
+                    },
+                    "technologyType": {
+                        "annotationValue": "a",
+                        "termSource": "a",
+                        "termAccession": "a"
+                    },
+                    "technologyPlatform": "a"
+                }
+            ],
+            "factors": [
+                {
+                    "factorName": "a",
+                    "factorType": {
+                        "annotationValue": "a",
+                        "termSource": "a",
+                        "termAccession": "a"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "TalinumGenomeDraft/isa.study.xlsx",
+            "identifier": "TalinumGenomeDraft"
+        },
+        {
+            "identifier": "Talinum_RNASeq_minimal",
+            "protocols": [
+                {
+                    "name": "1SPL01_plants",
+                    "parameters": [
+                        {
+                            "parameterName": {
+                                "annotationValue": "growth chamber company"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Flower pot"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Sample Collection Method",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000009"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Metabolism quenching method",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000010"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Sample storage",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000011"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "2EXT01_RNA",
+                    "parameters": [
+                        {
+                            "parameterName": {
+                                "annotationValue": "Bio entity",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000012"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Extraction method",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000054"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Extraction buffer",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000050"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Extraction buffer volume",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000051"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "3ASY01_RNASeq",
+                    "parameters": [
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library strategy",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000035"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library Selection",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000036"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library layout"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "rRNA Depletion"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library preparation kit",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000037"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library preparation kit version",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000038"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library RNA amount",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000016"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Next generation sequencing instrument model",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000040"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Base-calling Software",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000017"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Base-calling Software Version",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000018"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library strand",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000020"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Raw data file format",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000021"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "4COM01_RNASeq",
+                    "parameters": [
+                        {
+                            "parameterName": {
+                                "annotationValue": "Data filtering software",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000023"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Data filtering software version",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000024"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Data filtering Software Parameters",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000025"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Read Alignment Software",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000002"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Read Alignment Software Version",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000003"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Read Alignment Software Parameters",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000004"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Genome reference sequence",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000026"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "factors": [
+                {
+                    "factorName": "Biosource amount",
+                    "factorType": {
+                        "annotationValue": "Biosource amount",
+                        "termSource": "NFDI4PSO",
+                        "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013"
+                    }
+                },
+                {
+                    "factorName": "RNA quality check",
+                    "factorType": {
+                        "annotationValue": "RNA quality check",
+                        "termSource": "NFDI4PSO",
+                        "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062"
+                    }
+                },
+                {
+                    "factorName": "Adapter sequence",
+                    "factorType": {
+                        "annotationValue": "Adapter sequence",
+                        "termSource": "NFDI4PSO",
+                        "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000039"
+                    }
+                }
+            ]
+        },
+        {
+            "identifier": "Talinum_RNASeq_minimal",
+            "protocols": [
+                {
+                    "name": "2EXT01_RNA",
+                    "parameters": [
+                        {
+                            "parameterName": {
+                                "annotationValue": "Bio entity",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000012"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Extraction method",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000054"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Extraction buffer",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000050"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Extraction buffer volume",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000051"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "3ASY01_RNASeq",
+                    "parameters": [
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library strategy",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000035"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library Selection",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000036"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library layout"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "rRNA Depletion"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library preparation kit",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000037"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library preparation kit version",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000038"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library RNA amount",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000016"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Next generation sequencing instrument model",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000040"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Base-calling Software",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000017"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Base-calling Software Version",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000018"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library strand",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000020"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Raw data file format",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000021"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "factors": [
+                {
+                    "factorName": "Biosource amount",
+                    "factorType": {
+                        "annotationValue": "Biosource amount",
+                        "termSource": "NFDI4PSO",
+                        "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013"
+                    }
+                },
+                {
+                    "factorName": "RNA quality check",
+                    "factorType": {
+                        "annotationValue": "RNA quality check",
+                        "termSource": "NFDI4PSO",
+                        "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062"
+                    }
+                },
+                {
+                    "factorName": "Adapter sequence",
+                    "factorType": {
+                        "annotationValue": "Adapter sequence",
+                        "termSource": "NFDI4PSO",
+                        "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000039"
+                    }
+                }
+            ]
+        },
+        {
+            "identifier": "Talinum_RNASeq_minimal",
+            "protocols": [
+                {
+                    "name": "2EXT01_RNA",
+                    "parameters": [
+                        {
+                            "parameterName": {
+                                "annotationValue": "Bio entity",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000012"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Extraction method",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000054"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Extraction buffer",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000050"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Extraction buffer volume",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000051"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "3ASY01_RNASeq",
+                    "parameters": [
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library strategy",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000035"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library Selection",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000036"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library layout"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "rRNA Depletion"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library preparation kit",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000037"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library preparation kit version",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000038"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library RNA amount",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000016"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Next generation sequencing instrument model",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000040"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Base-calling Software",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000017"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Base-calling Software Version",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000018"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library strand",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000020"
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Raw data file format",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000021"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "factors": [
+                {
+                    "factorName": "Biosource amount",
+                    "factorType": {
+                        "annotationValue": "Biosource amount",
+                        "termSource": "NFDI4PSO",
+                        "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013"
+                    }
+                },
+                {
+                    "factorName": "RNA quality check",
+                    "factorType": {
+                        "annotationValue": "RNA quality check",
+                        "termSource": "NFDI4PSO",
+                        "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062"
+                    }
+                },
+                {
+                    "factorName": "Adapter sequence",
+                    "factorType": {
+                        "annotationValue": "Adapter sequence",
+                        "termSource": "NFDI4PSO",
+                        "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000039"
+                    }
+                }
+            ]
+        },
+        {
+            "identifier": "Talinum_RNASeq_minimal",
+            "people": [
+                {
+                    "lastName": "Brilhaus",
+                    "firstName": "Dominik",
+                    "email": "dominik.brilhaus@hhu.de",
+                    "phone": "0211-8115523",
+                    "address": "HHU Düsseldorf, 22.07.U1.43, Universitätsstr. 1, 40225 Düsseldorf",
+                    "affiliation": "Institute of Plant Biochemistry, HHU Düsseldorf",
+                    "roles": [
+                        {
+                            "annotationValue": "research assistant",
+                            "termSource": "scoro",
+                            "termAccession": "http://purl.org/spar/scoro/research-assistant"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "name": "Worksheet"
+                        }
+                    ]
+                },
+                {
+                    "lastName": "Winter",
+                    "firstName": "Klaus",
+                    "address": "Balboa, Ancón, Republic of Panama",
+                    "affiliation": "Smithsonian Tropical Research Institute, Panama",
+                    "roles": [
+                        {
+                            "annotationValue": "co-investigator",
+                            "termSource": "scoro",
+                            "termAccession": "http://purl.org/spar/scoro/co-investigator"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "name": "Worksheet"
+                        }
+                    ]
+                },
+                {
+                    "lastName": "Kurz",
+                    "firstName": "Samantha",
+                    "address": "Universitätsstr. 1, 40225 Düsseldorf",
+                    "affiliation": "Institute of Plant Biochemistry, HHU Düsseldorf",
+                    "roles": [
+                        {
+                            "annotationValue": "technician",
+                            "termSource": "scoro",
+                            "termAccession": "http://purl.org/spar/scoro/technician"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "name": "Worksheet"
+                        }
+                    ]
+                },
+                {
+                    "lastName": "Wachtmeister",
+                    "firstName": "Thorsten",
+                    "address": "Universitätsstr. 1, 40225 Düsseldorf",
+                    "affiliation": "Biological Medical Research Centre, HHU Düsseldorf",
+                    "roles": [
+                        {
+                            "annotationValue": "technician",
+                            "termSource": "scoro",
+                            "termAccession": "http://purl.org/spar/scoro/technician"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "name": "Worksheet"
+                        }
+                    ]
+                }
+            ],
+            "protocols": [
+                {
+                    "name": "2EXT01_RNA",
+                    "parameters": [
+                        {
+                            "parameterName": {
+                                "annotationValue": "Bio entity",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000012",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "0"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Extraction method",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000054",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Extraction buffer",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000050",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "3"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Extraction buffer volume",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000051",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "3ASY01_RNASeq",
+                    "parameters": [
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library strategy",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000035",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "0"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library Selection",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000036",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library layout",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "rRNA Depletion",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "3"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library preparation kit",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000037",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "4"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library preparation kit version",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000038",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "5"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library RNA amount",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000016",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "7"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Next generation sequencing instrument model",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000040",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "8"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Base-calling Software",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000017",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "9"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Base-calling Software Version",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000018",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "10"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Library strand",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000020",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "11"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "parameterName": {
+                                "annotationValue": "Raw data file format",
+                                "termSource": "NFDI4PSO",
+                                "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000021",
+                                "comments": [
+                                    {
+                                        "name": "ValueIndex",
+                                        "value": "12"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "assays": [
+                {
+                    "filename": "Talinum_RNASeq_minimal/isa.assay.xlsx",
+                    "measurementType": {
+                        "annotationValue": "mRNA Sequencing",
+                        "termSource": "NCIT",
+                        "termAccession": "http://purl.obolibrary.org/obo/NCIT_C129432"
+                    },
+                    "technologyType": {
+                        "annotationValue": "Next Generation Sequencing",
+                        "termSource": "NCIT",
+                        "termAccession": "http://purl.obolibrary.org/obo/NCIT_C101293"
+                    },
+                    "technologyPlatform": "Illumina HiSeq 2500",
+                    "characteristicCategories": [],
+                    "processSequence": [
+                        {
+                            "name": "2EXT01_RNA_0",
+                            "executesProtocol": {
+                                "name": "2EXT01_RNA",
+                                "parameters": [
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Bio entity",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000012",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "0"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Extraction method",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000054",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Extraction buffer",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000050",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Extraction buffer volume",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000051",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "4"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "parameterValues": [
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Bio entity",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000012",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "0"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "mRNA"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Extraction method",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000054",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "Roboklon EURx GeneMATRIX Universal RNA Purification version 2.3 September 2011"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Extraction buffer",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000050",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "Roboklon commercial buffers"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Extraction buffer volume",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000051",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "4"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": 300,
+                                    "unit": {
+                                        "annotationValue": "microliter",
+                                        "termSource": "UO",
+                                        "termAccession": "http://purl.obolibrary.org/obo/UO_0000101"
+                                    }
+                                }
+                            ],
+                            "inputs": [
+                                {
+                                    "name": "CAM_01"
+                                },
+                                {
+                                    "name": "CAM_02"
+                                },
+                                {
+                                    "name": "CAM_03"
+                                },
+                                {
+                                    "name": "reC3_01"
+                                },
+                                {
+                                    "name": "reC3_02"
+                                },
+                                {
+                                    "name": "reC3_03"
+                                }
+                            ],
+                            "outputs": [
+                                {
+                                    "name": "CAM_01_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 80,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.6 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "CAM_01"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CAM_02_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 78,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.7 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "CAM_02"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CAM_03_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 93,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 6.5 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "CAM_03"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "reC3_01_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 82,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.8 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "reC3_01"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "reC3_02_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 96,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.6 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "reC3_02"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "reC3_03_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 78,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.6 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "reC3_03"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "3ASY01_RNASeq_0",
+                            "executesProtocol": {
+                                "name": "3ASY01_RNASeq",
+                                "parameters": [
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Library strategy",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000035",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "0"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Library Selection",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000036",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Library layout",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "rRNA Depletion",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Library preparation kit",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000037",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "4"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Library preparation kit version",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000038",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Library RNA amount",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000016",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "7"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Next generation sequencing instrument model",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000040",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "8"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Base-calling Software",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000017",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "9"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Base-calling Software Version",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000018",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "10"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Library strand",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000020",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "11"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "parameterName": {
+                                            "annotationValue": "Raw data file format",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000021",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "12"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "parameterValues": [
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Library strategy",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000035",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "0"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "RNA-Seq"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Library Selection",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000036",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "1"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "cDNA method"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Library layout",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "single"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "rRNA Depletion",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "3"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "DNase (New England Biolabs)"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Library preparation kit",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000037",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "4"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "Illumina TruSeq RNA Sample Prep Kit"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Library preparation kit version",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000038",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "version 2"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Library RNA amount",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000016",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "7"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "unit": {
+                                        "annotationValue": "microgram",
+                                        "termSource": "UO",
+                                        "termAccession": "http://purl.obolibrary.org/obo/UO_0000023"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Next generation sequencing instrument model",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000040",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "8"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "Illumina HiSeq 2000 Rapid Run"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Base-calling Software",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000017",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "9"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "Illumina Cassava"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Base-calling Software Version",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000018",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "10"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "v1.8.2"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Library strand",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000020",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "11"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "Forward"
+                                },
+                                {
+                                    "category": {
+                                        "parameterName": {
+                                            "annotationValue": "Raw data file format",
+                                            "termSource": "NFDI4PSO",
+                                            "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000021",
+                                            "comments": [
+                                                {
+                                                    "name": "ValueIndex",
+                                                    "value": "12"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "value": "*.fastq.gz"
+                                }
+                            ],
+                            "inputs": [
+                                {
+                                    "name": "CAM_01_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 80,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.6 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "CAM_01"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CAM_01_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 80,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.6 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "CAM_01"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CAM_02_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 78,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.7 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "CAM_02"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CAM_02_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 78,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.7 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "CAM_02"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CAM_03_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 93,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 6.5 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "CAM_03"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CAM_03_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 93,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 6.5 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "CAM_03"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "reC3_01_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 82,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.8 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "reC3_01"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "reC3_01_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 82,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.8 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "reC3_01"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "reC3_02_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 96,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.6 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "reC3_02"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "reC3_02_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 96,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.6 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "reC3_02"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "reC3_03_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 78,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.6 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "reC3_03"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "reC3_03_ext",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Biosource amount",
+                                                "factorType": {
+                                                    "annotationValue": "Biosource amount",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "1"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": 78,
+                                            "unit": {
+                                                "annotationValue": "milligram",
+                                                "termSource": "UO",
+                                                "termAccession": "http://purl.obolibrary.org/obo/UO_0000022"
+                                            }
+                                        },
+                                        {
+                                            "category": {
+                                                "factorName": "RNA quality check",
+                                                "factorType": {
+                                                    "annotationValue": "RNA quality check",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "5"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "RIN 7.6 (Agilent Bioanalyzer 2100 expert_Plant RNA Nano)"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "reC3_03"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "outputs": [
+                                {
+                                    "name": "DB_097_CAMMD_CAGATC_L001_R1_001.fastq.gz",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Adapter sequence",
+                                                "factorType": {
+                                                    "annotationValue": "Adapter sequence",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000039",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "6"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "CAGATC"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "CAM_01_ext"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "DB_097_CAMMD_CAGATC_L001_R1_001.fastq.gz",
+                                    "type": "Raw Data File"
+                                },
+                                {
+                                    "name": "DB_099_CAMMD_CTTGTA_L001_R1_001.fastq.gz",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Adapter sequence",
+                                                "factorType": {
+                                                    "annotationValue": "Adapter sequence",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000039",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "6"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "CTTGTA"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "CAM_02_ext"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "DB_099_CAMMD_CTTGTA_L001_R1_001.fastq.gz",
+                                    "type": "Raw Data File"
+                                },
+                                {
+                                    "name": "DB_103_CAMMD_AGTCAA_L001_R1_001.fastq.gz",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Adapter sequence",
+                                                "factorType": {
+                                                    "annotationValue": "Adapter sequence",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000039",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "6"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "AGTCAA"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "CAM_03_ext"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "DB_103_CAMMD_AGTCAA_L001_R1_001.fastq.gz",
+                                    "type": "Raw Data File"
+                                },
+                                {
+                                    "name": "DB_161_reC3MD_GTCCGC_L001_R1_001.fastq.gz",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Adapter sequence",
+                                                "factorType": {
+                                                    "annotationValue": "Adapter sequence",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000039",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "6"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "GTCCGC"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "reC3_01_ext"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "DB_161_reC3MD_GTCCGC_L001_R1_001.fastq.gz",
+                                    "type": "Raw Data File"
+                                },
+                                {
+                                    "name": "DB_163_reC3MD_GTGAAA_L001_R1_001.fastq.gz",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Adapter sequence",
+                                                "factorType": {
+                                                    "annotationValue": "Adapter sequence",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000039",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "6"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "GTGAAA"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "reC3_02_ext"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "DB_163_reC3MD_GTGAAA_L001_R1_001.fastq.gz",
+                                    "type": "Raw Data File"
+                                },
+                                {
+                                    "name": "DB_165_re-C3MD_GTGAAA_L002_R1_001.fastq.gz",
+                                    "factorValues": [
+                                        {
+                                            "category": {
+                                                "factorName": "Adapter sequence",
+                                                "factorType": {
+                                                    "annotationValue": "Adapter sequence",
+                                                    "termSource": "NFDI4PSO",
+                                                    "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000039",
+                                                    "comments": [
+                                                        {
+                                                            "name": "ValueIndex",
+                                                            "value": "6"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "value": "GTGAAA"
+                                        }
+                                    ],
+                                    "derivesFrom": [
+                                        {
+                                            "name": "reC3_03_ext"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "DB_165_re-C3MD_GTGAAA_L002_R1_001.fastq.gz",
+                                    "type": "Raw Data File"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "factors": [
+                {
+                    "factorName": "Biosource amount",
+                    "factorType": {
+                        "annotationValue": "Biosource amount",
+                        "termSource": "NFDI4PSO",
+                        "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000013",
+                        "comments": [
+                            {
+                                "name": "ValueIndex",
+                                "value": "1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "factorName": "RNA quality check",
+                    "factorType": {
+                        "annotationValue": "RNA quality check",
+                        "termSource": "NFDI4PSO",
+                        "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000062",
+                        "comments": [
+                            {
+                                "name": "ValueIndex",
+                                "value": "5"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "factorName": "Adapter sequence",
+                    "factorType": {
+                        "annotationValue": "Adapter sequence",
+                        "termSource": "NFDI4PSO",
+                        "termAccession": "http://purl.obolibrary.org/obo/NFDI4PSO_0000039",
+                        "comments": [
+                            {
+                                "name": "ValueIndex",
+                                "value": "6"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
