@@ -9,3 +9,6 @@ In this repository the ARC container ontology will be maintained in .owl format 
 
 ## **Attention!**
 It is strongly advised to reuse the ontology in .owl format only and not in .obo or .ttl format as a conversion will result in information loss due to the different semantics.
+
+## **Stuff for testing**
+[ontology](https://github.com/nfdi4plants/ARC_ontology/blob/dev/ARC_v1.1.owl)
